@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 💬 Ask me about web development, JavaScript, and open source contributions.
-- 📫 How to reach me: [himesh420-420@gmail.com](mailto:patelhimu2006@gmail.com)
+- 📫 How to reach me: [patelhimu2006@gmail.com](mailto:patelhimu2006@gmail.com)
 - ⚡ Fun fact: I love playing video games and exploring new tech gadgets.
 
 ## 🛠️ Technologies & Tools
