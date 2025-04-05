@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 💬 Ask me about web development, JavaScript, and open source contributions.
-- 📫 How to reach me: [himesh420-420@gmail.com](mailto:himesh420-420@gmail.com)
+- 📫 How to reach me: [himesh420-420@gmail.com](mailto:patelhimu2006@gmail.com)
 - ⚡ Fun fact: I love playing video games and exploring new tech gadgets.
 
 ## 🛠️ Technologies & Tools
@@ -23,11 +23,6 @@
 ## 📈 GitHub Stats
 
 ![Himesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=himesh420-420&show_icons=true&theme=radical)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/himesh420-420/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/himesh420-420)
 
 ## 📂 Top Repositories
 
